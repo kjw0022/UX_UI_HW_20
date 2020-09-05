@@ -1,0 +1,83 @@
+.customNav{
+    margin-right: 100px;
+    margin-top: 20px;
+}
+.heroImg{
+    background-color: #ffffff;
+    color: #02244E;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.research{
+    background-color: #73919C;
+    color: #ffffff;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.keyInsights{
+    background-color: #ffffff;
+    color: #02244E;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.keyInsight1{
+    margin-bottom: 50px;
+}
+.problem{
+    background-color: #73919C;
+    color: #ffffff;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.brainstorming{
+    background-color: #ffffff;
+    color: #02244E;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.competitorAnalysis{
+    background-color: #73919C;
+    color: #ffffff;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.wireframes{
+    background-color: #ffffff;
+    color: #02244E;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.userTesting{
+    background-color: #73919C ;
+    color: #ffffff;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.iteration1{
+    margin-bottom: 50px;
+}
+.finalDesign{
+    background-color: #ffffff;
+    color: #02244E;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.nextSteps{
+    background-color: #73919C;
+    color: #ffffff;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+h1{
+    margin-bottom: 30px;
+}
