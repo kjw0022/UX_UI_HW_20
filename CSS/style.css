@@ -10,9 +10,12 @@
 }
 .research{
     background-color: #73919C;
-    color: #ffffff;
+    color: #73919C;
     padding-left: 100px;
     padding-right: 100px;
+}
+.research h1{
+    color: #ffffff;
 }
 .keyInsights{
     background-color: #ffffff;
@@ -39,11 +42,13 @@
 }
 .competitorAnalysis{
     background-color: #73919C;
-    color: #ffffff;
     padding-left: 100px;
     padding-right: 100px;
     padding-top: 50px;
     padding-bottom: 50px;
+}
+.competitorAnalysis h1{
+    color: #ffffff;
 }
 .wireframes{
     background-color: #ffffff;
